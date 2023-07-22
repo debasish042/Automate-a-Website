@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T01:30:35 IST" name="Default suite" finished-at="2023-07-21T01:31:41 IST" duration-ms="65959">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T01:30:35 IST" name="Default test" finished-at="2023-07-21T01:31:41 IST" duration-ms="65959">
+      <class name="test.NewTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:30:35 IST" name="setUp" finished-at="2023-07-21T01:30:37 IST" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="register()[pri:1, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:30:37 IST" name="register" finished-at="2023-07-21T01:30:45 IST" duration-ms="7956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="login()[pri:2, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:30:45 IST" name="login" finished-at="2023-07-21T01:30:55 IST" duration-ms="9864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchProduct()[pri:3, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:30:55 IST" name="searchProduct" finished-at="2023-07-21T01:31:12 IST" duration-ms="17357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="addToCart()[pri:4, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:31:12 IST" name="addToCart" finished-at="2023-07-21T01:31:41 IST" duration-ms="28642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.NewTest@3b0fe47a]" started-at="2023-07-21T01:31:41 IST" name="tearDown" finished-at="2023-07-21T01:31:41 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
